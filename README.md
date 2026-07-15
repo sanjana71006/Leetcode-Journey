@@ -35,6 +35,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0344-reverse-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,5 +52,6 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
