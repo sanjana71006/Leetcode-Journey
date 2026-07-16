@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0724-find-pivot-index) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
