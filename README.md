@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
@@ -93,4 +94,16 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
