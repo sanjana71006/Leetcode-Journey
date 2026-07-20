@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
@@ -113,4 +114,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
