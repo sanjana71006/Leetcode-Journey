@@ -7,7 +7,6 @@ class Solution:
             if nums[m]==target:
                 mini=m
                 h=m-1
-                # return m
             elif nums[m]>target:
                 h=m-1 
             else:
@@ -18,7 +17,6 @@ class Solution:
             if nums[m]==target:
                 maxi=m
                 l=m+1
-                # return m
             elif nums[m]>target:
                 h=m-1 
             else:
