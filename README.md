@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +63,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0704-binary-search) |
 ## Sorting
