@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
