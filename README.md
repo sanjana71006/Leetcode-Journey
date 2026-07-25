@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -100,14 +103,17 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
@@ -166,4 +172,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
