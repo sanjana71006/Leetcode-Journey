@@ -18,6 +18,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -78,12 +80,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
