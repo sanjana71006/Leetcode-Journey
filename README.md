@@ -48,6 +48,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0125-valid-palindrome](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [1143-longest-common-subsequence](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
