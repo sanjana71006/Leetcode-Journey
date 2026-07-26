@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
@@ -186,6 +188,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
