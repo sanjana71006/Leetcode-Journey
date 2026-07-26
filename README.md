@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0414-third-maximum-number) |
@@ -106,6 +107,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
