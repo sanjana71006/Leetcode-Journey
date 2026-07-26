@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0414-third-maximum-number) |
