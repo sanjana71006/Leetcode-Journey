@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -154,6 +155,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
