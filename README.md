@@ -56,6 +56,7 @@
 | [0435-non-overlapping-intervals](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@
 | [0069-sqrtx](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
@@ -157,6 +159,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
