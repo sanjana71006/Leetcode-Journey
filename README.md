@@ -141,6 +141,7 @@
 | [0069-sqrtx](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -205,4 +206,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
