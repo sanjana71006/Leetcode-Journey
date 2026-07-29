@@ -34,6 +34,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1310-xor-queries-of-a-subarray) |
+| [1598-crawler-log-folder](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1598-crawler-log-folder) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1143-longest-common-subsequence](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1598-crawler-log-folder](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1598-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0020-valid-parentheses](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
