@@ -25,6 +25,7 @@
 | [0525-contiguous-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0682-baseball-game](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,4 +215,8 @@
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
