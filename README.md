@@ -32,6 +32,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1310-xor-queries-of-a-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@
 | [0724-find-pivot-index](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1310-xor-queries-of-a-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,5 +211,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
