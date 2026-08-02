@@ -225,4 +225,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0682-baseball-game) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
