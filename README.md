@@ -72,6 +72,7 @@
 | [0020-valid-parentheses](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1143-longest-common-subsequence](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -146,6 +147,7 @@
 | [0050-powx-n](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/sanjana71006/Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
@@ -224,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sanjana71006/Leetcode-Journey/tree/master/0682-baseball-game) |
 ## Database
 |  |
